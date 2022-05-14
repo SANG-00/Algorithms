@@ -1,0 +1,18 @@
+(******************************************************************************
+* Euclid's algorithm.
+*
+* UpperCammelCase Notation, Tabstop 2, Indentation 2, Pseudocode.
+*
+* Santino Fuentes, 2022.
+******************************************************************************)
+
+ALGORITHM Euclid ( INTEGER M N ) RETURN INTEGER
+	// Computes the GCD of integers M and N.
+	INTEGER R
+	WHILE ( N != 0 )DO
+		R <-- ( M MOD N )
+		M <-- N
+		N <-- R
+	RETURN M
+END ALGORITHM Euclid
+
