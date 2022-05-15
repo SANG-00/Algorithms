@@ -6,4 +6,4 @@
 
 **Useful bibliography:**
 
-* *"Introduction to the design and analysis of algorithms", by Anany Levitin.
+* *"Introduction to the design and analysis of algorithms"*, by Anany Levitin.
