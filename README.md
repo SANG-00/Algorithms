@@ -1,5 +1,9 @@
 # Algorithms
 
-## Algorithm collection mostly taken as excercises of the book "Introduction 
-## to the design and analysis of algorithms", by Anany Levitin.
+## Personal algorithm collection.
 
+### Some are very famous algorithms and most of them are my own designs.
+
+**Useful bibliography:**
+
+* *"Introduction to the design and analysis of algorithms", by Anany Levitin.
